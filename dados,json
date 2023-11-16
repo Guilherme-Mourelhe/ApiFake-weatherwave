@@ -1,0 +1,187 @@
+[
+  {
+    "id": 1,
+    "cidade": "Rio de Janeiro",
+    "clima_atual": "Nublado",
+    "temperatura_atual": 24,
+    "temperatura_maxima": 27,
+    "temperatura_minima": 20,
+    "umidade": 70,
+    "velocidade_vento": 15,
+    "mediacoes_pluviometricas_mm": [2.5, 1.0, 3.2, 0, 0, 1.8, 2.0, 0, 0, 0, 4.5, 2.2],
+    "temperaturas_24h": [22, 23, 22, 24, 25, 26, 26, 25, 23, 22, 22, 21]
+  },
+  {
+    "id": 2,
+    "cidade": "Petrópolis",
+    "clima_atual": "Ensolarado",
+    "temperatura_atual": 30,
+    "temperatura_maxima": 34,
+    "temperatura_minima": 25,
+    "umidade": 65,
+    "velocidade_vento": 12,
+    "mediacoes_pluviometricas_mm": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "temperaturas_24h": [26, 27, 28, 29, 30, 31, 32, 32, 31, 29, 28, 27]
+  },
+  {
+    "id": 3,
+    "cidade": "Angra dos Reis",
+    "clima_atual": "Chuva",
+    "temperatura_atual": 22,
+    "temperatura_maxima": 25,
+    "temperatura_minima": 18,
+    "umidade": 80,
+    "velocidade_vento": 8,
+    "mediacoes_pluviometricas_mm": [10.5, 15.2, 12.0, 8.0, 5.5, 7.0, 10.2, 12.8, 15.0, 18.5, 20.2, 14.5],
+    "temperaturas_24h": [20, 21, 20, 22, 23, 24, 24, 23, 22, 21, 20, 19]
+  },
+ {
+  "id": 4,
+  "cidade": "Balneário Camboriú",
+  "clima_atual": "Chuvoso",
+  "temperatura_atual": 18,
+  "temperatura_maxima": 22,
+  "temperatura_minima": 15,
+  "umidade": 75,
+  "velocidade_vento": 10,
+  "mediacoes_pluviometricas_mm": [5.0, 7.5, 10.2, 8.5, 6.0, 9.0, 7.8, 5.5, 6.2, 8.0, 9.5, 12.0],
+  "temperaturas_24h": [16, 17, 18, 18, 19, 20, 20, 19, 18, 17, 17, 16]
+ },
+ {
+  "id": 5,
+  "cidade": "Florianópolis",
+  "clima_atual": "Nublado",
+  "temperatura_atual": 26,
+  "temperatura_maxima": 30,
+  "temperatura_minima": 23,
+  "umidade": 85,
+  "velocidade_vento": 14,
+  "mediacoes_pluviometricas_mm": [3.2, 4.0, 0, 0, 2.5, 0, 3.8, 5.0, 0, 0, 4.2, 6.5],
+  "temperaturas_24h": [24, 25, 26, 27, 28, 28, 27, 26, 25, 24, 24, 23]
+ },
+ {
+  "id": 6,
+  "cidade": "Joinville",
+  "clima_atual": "Ensolarado",
+  "temperatura_atual": 32,
+  "temperatura_maxima": 35,
+  "temperatura_minima": 28,
+  "umidade": 40,
+  "velocidade_vento": 18,
+  "mediacoes_pluviometricas_mm": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "temperaturas_24h": [29, 30, 31, 32, 33, 34, 34, 33, 32, 31, 30, 29]
+ },
+
+ {
+  "id": 7,
+  "cidade": "Porto Seguro",
+  "clima_atual": "Chuva",
+  "temperatura_atual": 28,
+  "temperatura_maxima": 30,
+  "temperatura_minima": 25,
+  "umidade": 85,
+  "velocidade_vento": 12,
+  "mediacoes_pluviometricas_mm": [12.0, 15.5, 14.2, 10.8, 12.5, 11.0, 15.2, 18.0, 20.5, 22.0, 18.8, 15.0],
+  "temperaturas_24h": [26, 27, 28, 29, 30, 30, 29, 28, 27, 26, 25, 24]
+ },
+
+ {
+  "id": 8,
+  "cidade": "Salvador",
+  "clima_atual": "Nublado",
+  "temperatura_atual": 15,
+  "temperatura_maxima": 18,
+  "temperatura_minima": 12,
+  "umidade": 80,
+  "velocidade_vento": 8,
+  "mediacoes_pluviometricas_mm": [8.5, 10.0, 12.2, 9.5, 11.0, 8.8, 10.5, 13.0, 15.2, 12.0, 10.8, 9.0],
+  "temperaturas_24h": [14, 13, 14, 15, 16, 17, 16, 15, 14, 13, 12, 12]
+ },
+
+ {
+  "id": 9,
+  "cidade": "Ilhéus",
+  "clima_atual": "Ensolarado",
+  "temperatura_atual": 32,
+  "temperatura_maxima": 34,
+  "temperatura_minima": 28,
+  "umidade": 70,
+  "velocidade_vento": 14,
+  "mediacoes_pluviometricas_mm": [1.8, 2.5, 0, 0, 1.0, 0, 2.2, 3.0, 0, 0, 2.5, 4.0],
+  "temperaturas_24h": [30, 31, 32, 33, 34, 34, 33, 32, 31, 30, 29, 28]
+ },
+
+ {
+  "id": 10,
+  "cidade": "Cuiabá",
+  "clima_atual": "Quente",
+  "temperatura_atual": 38,
+  "temperatura_maxima": 40,
+  "temperatura_minima": 30,
+  "umidade": 50,
+  "velocidade_vento": 15,
+  "mediacoes_pluviometricas_mm": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "temperaturas_24h": [32, 33, 34, 35, 36, 37, 38, 38, 37, 36, 35, 34]
+ },
+ {
+  "id": 11,
+  "cidade": "Rondonópolis",
+  "clima_atual": "Neve",
+  "temperatura_atual": -2,
+  "temperatura_maxima": 1,
+  "temperatura_minima": -5,
+  "umidade": 90,
+  "velocidade_vento": 5,
+  "mediacoes_pluviometricas_mm": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "temperaturas_24h": [-3, -2, -1, 0, 1, 1, 0, -1, -2, -3, -4, -5]
+ },
+
+ {
+  "id": 12,
+  "cidade": "Sinop",
+  "clima_atual": "Chuvoso",
+  "temperatura_atual": 26,
+  "temperatura_maxima": 28,
+  "temperatura_minima": 23,
+  "umidade": 85,
+  "velocidade_vento": 10,
+  "mediacoes_pluviometricas_mm": [5.0, 7.2, 8.5, 6.0, 9.2, 7.8, 8.0, 6.5, 7.0, 8.2, 9.5, 10.0],
+  "temperaturas_24h": [24, 25, 26, 27, 27, 28, 28, 27, 26, 25, 24, 23]
+ },
+ {
+  "id": 13,
+  "cidade": "Macapá",
+  "clima_atual": "Frio",
+  "temperatura_atual": 10,
+  "temperatura_maxima": 15,
+  "temperatura_minima": 5,
+  "umidade": 80,
+  "velocidade_vento": 6,
+  "mediacoes_pluviometricas_mm": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "temperaturas_24h": [8, 9, 9, 10, 11, 11, 10, 9, 8, 7, 6, 5]
+ },
+ {
+  "id": 14,
+  "cidade": "Serra do Navio",
+  "clima_atual": "Quente",
+  "temperatura_atual": 34,
+  "temperatura_maxima": 36,
+  "temperatura_minima": 28,
+  "umidade": 60,
+  "velocidade_vento": 14,
+  "mediacoes_pluviometricas_mm": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "temperaturas_24h": [30, 31, 32, 33, 34, 35, 36, 35, 34, 33, 32, 31]
+ },
+ {
+  "id": 15,
+  "cidade": "Porto Grande",
+  "clima_atual": "Quente",
+  "temperatura_atual": 36,
+  "temperatura_maxima": 38,
+  "temperatura_minima": 30,
+  "umidade": 55,
+  "velocidade_vento": 16,
+  "mediacoes_pluviometricas_mm": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "temperaturas_24h": [32, 33, 34, 35, 36, 37, 38, 37, 36, 35, 34, 33]
+ }
+]
